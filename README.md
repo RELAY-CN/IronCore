@@ -60,5 +60,5 @@ _**个人项目, 仅供非商业使用/学习**_
 [<img src=".github/jetbrains-variant-3.png" width="200"/>](https://www.jetbrains.com/?from=IronCore)
 
 ## 许可证
-+ [AGPL-3.0](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
++ [RELAY-CN LICENSE](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
 + [EULA]()
