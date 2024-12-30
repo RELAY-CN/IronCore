@@ -10,21 +10,21 @@ _**个人项目, 仅供非商业使用/学习**_
 </div>
 
 ## 特性介绍
-- [x] 安装不简单：就算是聪明人也难使用 
-- [x] 性能不友好：就算是高内存也难使用
-- [x] 接口不丰富：就算是接口有也难使用
-- [x] 不稳定易跑：就算是不跑路也难使用
+- [x] 运行简单：只需要运行[Script]即可运行
+- [x] 性能友好：完全的二进制文件
+- [x] 稳定持久：根本不会爆炸
+- [x] 什么都有：官方有的我也有, 兼容全协议/功能
+
 
 ## 开始
 - 讨论:
   > 在 GitHub Discussions 提出的问题会收到回复, 也欢迎分享你基于项目的新想法  
-  > 邮件联系: dr@der.kim  
-  > 腾讯QQ群: [980562548](https://qm.qq.com/cgi-bin/qm/qr?k=mxR_X-QsuLG6PeVaJspPqUOS_iWL02nx&jump_from=webapi&authKey=WSxLsF8GcHdYB3VIrOxNnprRSQBBlklBww6AF420KTmhcow3jYLQKEF3z3Qy+Vfx)
+  > 邮件联系: dr@der.kim
 
-### 特性
-- [x] 完美兼容官方服务端/协议
-- [x] 接口丰富便于开发
-- [x] 到处存在的自签名 CA
+## 功能支持
+- [x] AUTO SERVER 服务器
+> - [x] FFA 模式
+- [x] RELAY 服务器
 
 ### 我们被谁使用
 - [SimpFun/SimpCloud](https://sfe.simpfun.cn)
@@ -35,10 +35,11 @@ _**个人项目, 仅供非商业使用/学习**_
   - **RelayIR-Unofficial** - No Find
 
 ## 运行配置
-#### 不支持使用的系统 :
-+ Windows ARM
-+ Windows LoongArch (龙芯)
-**如果在 Windows 无法运行, 试试 Linux 可能有奇效**
+#### 只支持使用的系统(二进制文件) :
++ Windows X86
++ Linux X86
+
+**剩下的没环境编译了**
 
 #### 标准
 
