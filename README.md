@@ -29,7 +29,7 @@ _**个人项目, 仅供非商业使用/学习**_
 ### 我们被谁使用
 - [SimpFun/SimpCloud](https://sfe.simpfun.cn)
 - RELAY-CN Service
-- Rank-CN -> [Rank-CN](xmrank.someo.top)
+- Rank-CN -> [Rank-CN](https://xmrank.someo.top)
 - 非官方RELAY
   - **RelayCN-Unofficial** -> [RELAY-CN](https://service.rw.der.kim)  
   - **RelayCN-Unofficial Global** -> [RELAY-Global](https://service.rw.der.kim)  
