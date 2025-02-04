@@ -28,38 +28,33 @@ _**个人项目, 仅供非商业使用/学习**_
 
 ### 我们被谁使用
 - [SimpFun/SimpCloud](https://sfe.simpfun.cn)
+- RELAY-CN Service
 - 非官方RELAY
-  - **RelayCN-Unofficial** - [RELAY-CN](https://service.rw.der.kim)  
-  - **RelayCN-Unofficial Global** - [RELAY-Global](https://service.rw.der.kim)  
-  - **RelayRU-Unofficial** - No Find
-  - **RelayIR-Unofficial** - No Find
+  - **RelayCN-Unofficial** -> [RELAY-CN](https://service.rw.der.kim)  
+  - **RelayCN-Unofficial Global** -> [RELAY-Global](https://service.rw.der.kim)  
+  - **RelayRU-Unofficial** -> No Find
+  - **RelayIR-Unofficial** -> No Find
+  - **幻想天域** -> No Find
 
 ## 运行配置
 #### 只支持使用的系统(二进制文件) :
 + Windows X86
 + Linux X86
-
 **剩下的没环境编译了**
+#### 原生Jar :
+排除Windows Arm的绝大多数架构, 能跑 `OpenJDK` 均可以跑
 
-#### 标准
+### 标准
 
 | 配置 		  | CPU               | 内存 	  | 系统 			 | 硬盘大小 	    | Java                   |
 |:-------|:------------------|:------|:-------|:----------|:-----------------------|
 | 推荐配置 	    | E5 2667 V2 (1 vC) | 4G | Linux      | 1G SSD | Java 21 (Azul JDK LTS)     |
-| 最低配置 	        | Snapdragon 410    | 1G  | Linux      | 512M SSD | Java 21 (Azul JDK LTS) |
+| 最低配置 	        | Snapdragon 410    | 512MB  | Linux      | 512M SSD | Java 21 (Azul JDK LTS) |
 | 测试环境 	        | i7-13700HX        | 32G  | Windows      | 2T SSD | Java 21 (Azul JDK LTS)     |
 
 ## 版本合集
-内部开发中, 暂不提供稳定版本
-
-## 感谢
-
-> [IntelliJ IDEA](https://zh.wikipedia.org/zh-hans/IntelliJ_IDEA) 是一个在各个方面都最大程度地提高开发人员的生产力的 IDE，适用于 JVM 平台语言。
-
-特别感谢 [JetBrains](https://www.jetbrains.com/?from=IronCore)
-为开源项目提供免费的 [IntelliJ IDEA](https://www.jetbrains.com/idea/?from=IronCore) 等 IDE 的授权  
-[<img src=".github/jetbrains-variant-3.png" width="200"/>](https://www.jetbrains.com/?from=IronCore)
+很遗憾, 处于失望, 目前不提供一切源码支持, 有问题请通过团队联系方式联系我  
 
 ## 许可证
 + [RELAY-CN LICENSE](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
-+ [EULA]()
++ [IronCore-Simulation](https://github.com/RELAY-CN/.github/blob/main/IronCore-Simulation.md)
