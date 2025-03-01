@@ -54,7 +54,8 @@ _**个人项目, 仅供非商业使用/学习**_
 | 测试环境 	        | i7-13700HX        | 32G  | Windows      | 2T SSD | Java 21 (Azul JDK LTS)     |
 
 ## 版本合集
-很遗憾, 处于失望, 目前不提供一切源码支持, 有问题请通过团队联系方式联系我  
+很遗憾, 处于失望, 目前不提供一切源码支持, 有问题请通过团队联系方式联系  
+我们提供源码出售/分发支持  
 
 ## 许可证
 + [RELAY-CN LICENSE](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
