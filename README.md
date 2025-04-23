@@ -51,13 +51,15 @@ _**个人项目, 仅供非商业使用/学习**_
 
 | 配置 		  | CPU               | 内存 	  | 系统 			 | 硬盘大小 	    | Java                   |
 |:-------|:------------------|:------|:-------|:----------|:-----------------------|
-| 推荐配置 	    | E5 2667 V2 (1 vC) | 4G | Linux      | 1G SSD | Java 21 (Azul JDK LTS)     |
-| 最低配置 	        | Snapdragon 410    | 512MB  | Linux      | 512M SSD | Java 21 (Azul JDK LTS) |
-| 测试环境 	        | i7-13700HX        | 32G  | Windows      | 2T SSD | Java 21 (Azul JDK LTS)     |
+| 推荐配置 	    | E5 2667 V2 (1 vC) | 4G | Linux      | 1G SSD | Java 24 (Azul JDK LTS)     |
+| 最低配置 	        | Any    | 1G  | Linux      | 512M SSD | Java 24 (Azul JDK LTS) |
+| 测试环境 	        | i9-14900HX/R9-9955HX        | 128G/64G  | Windows/Ubuntu/Debian      | 2T SSD | Java 24 (Azul JDK LTS)     |
 
 ## 版本合集
 很遗憾, 目前不提供一切源码支持.  
-我们提供源码出售/分发支持  
+我们提供源码出售/可能的支持  
+
+二进制公开版将在后续开放
 
 ## 许可证
 + [RELAY-CN LICENSE](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
