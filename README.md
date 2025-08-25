@@ -17,6 +17,37 @@
 
 致敬自由，致敬开源，致敬每一位战士。
 
+致谢名单(排名遵循Contributors) :  
+[@Dr](https://github.com/deng-rui), 
+[@493505110](https://github.com/493505110), 
+[@Mitpoppy](https://github.com/Mitpoppy),
+[@zerodegress](https://github.com/zerodegress), 
+[@yuchen1204](https://github.com/yuchen1204),
+[@cloudwindy](https://github.com/cloudwindy),
+[@Minxyzgo](https://github.com/Minxyzgo),
+[@yiyungent](https://github.com/yiyungent),
+[@allureluoli](https://github.com/allureluoli),
+[@ReSatori](https://github.com/ReSatori), 
+[@StefanoB2018](https://github.com/StefanoB2018), 
+[@ssw324](https://github.com/ssw324), 
+[@LingASDJ](https://github.com/LingASDJ),
+[@npldys](https://github.com/npldys),
+[@alittlewhitey](https://github.com/alittlewhitey), 
+[@Jaspeterest](https://github.com/Jaspeterest), 
+[@1dNDN](https://github.com/1dNDN), 
+[@driver1748](https://github.com/driver1748),
+[@shishanyue](https://github.com/shishanyue),
+[@3294493577](https://github.com/3294493577),
+[@kabaka9527](https://github.com/kabaka9527),
+[@54088kkk](https://github.com/54088kkk),
+[@Maple212](https://github.com/Maple212), 
+[@Luosimojk233](https://github.com/Luosimojk233),
+[@MZZZ-T](https://github.com/MZZZ-T),
+[@Tonyha7](https://github.com/Tonyha7), 
+[@ruaabbit](https://github.com/ruaabbit),
+[@AdminHcat](https://github.com/AdminHcat)
+
+
 ——  
 **`IronCore Team`** & **`RELAY-CN Team`** & **`NebulaPause Team`**
 最终敬上
@@ -80,12 +111,6 @@ _**个人项目, 仅供非商业使用/学习**_
 | 推荐配置 	    | E5 2667 V2 (1 vC) | 4G | Linux      | 1G SSD | Java 24 (Azul JDK LTS)     |
 | 最低配置 	        | Any    | 1G  | Linux      | 512M SSD | Java 24 (Azul JDK LTS) |
 | 测试环境 	        | i9-14900HX/R9-9955HX        | 128G/64G  | Windows/Ubuntu/Debian      | 2T SSD | Java 24 (Azul JDK LTS)     |
-
-## 版本合集
-很遗憾, 目前不提供一切源码支持.  
-我们提供源码出售/可能的支持  
-
-二进制公开版将在后续开放
 
 ## 许可证
 + [RELAY-CN LICENSE](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)  
